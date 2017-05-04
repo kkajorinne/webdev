@@ -1,0 +1,23 @@
+h1 {
+	color: white;
+	/*border-color: purple;
+	border-width: 5px;
+	border-style: solid;
+*/
+border: 15px dashed red;
+}
+
+li {
+	color: white;
+}
+
+h4 {
+	background: #992211;
+	color: white;
+}
+
+body {
+	background: url(https://newevolutiondesigns.com/images/freebies/rainbow-wallpaper-7.jpg);
+	/*background-size: cover;
+	background-repeat: no-repeat;*/
+}
