@@ -1,0 +1,16 @@
+body {
+	border: 10px solid gray;
+	font-family: Source Sans Pro;
+	margin: 20px auto;
+	padding: 20px;
+	max-width: 700px;
+	width:80%;
+}
+
+p {
+	margin: 0 2%;
+}
+
+h1 + p:nth-of-type(1){
+	border-left: 3px solid gray;
+}
